@@ -2,6 +2,12 @@
 
 A Flutter application from the Flutteriando Workshop.
 
+## Design
+
+* https://dribbble.com/shots/8842523-Courses-dashboard-for-iOS-app
+
+Do not use the design for Commercial purposes without authorization.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
